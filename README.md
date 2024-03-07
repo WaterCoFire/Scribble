@@ -1,1 +1,2 @@
-# Scribble
+# ScribbleProject
+A Java course Assignment.
